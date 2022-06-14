@@ -1,7 +1,6 @@
 #imports here
 import matplotlib.pyplot as plt
-import matplotlib.pyplot as mpld3
-import streamlit.components.v1 as components
+import streamlit as st
 
 #create your figure and get the figure object returned
 fig = plt.figure() 
